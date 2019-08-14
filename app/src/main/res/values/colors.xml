@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="lightAccent">#007EA7</color>
+    <color name="lightShades">#FFFFFF</color>
+    <color name="darkAccent">#003459</color>
+    <color name="darkShades">#00171F</color>
+    <color name="mainBrand">#00A8E8</color>
+
+    <color name="dark_lightShades">#E8E8E8</color>
+    <color name="danger">#f44336</color>
+    <color name="warning">#b39d46</color>
+    <color name="success">#35ad7e</color>
+    <color name="info">#3B4957</color>
+</resources>
